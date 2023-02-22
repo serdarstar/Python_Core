@@ -1,9 +1,9 @@
 """
-Public
+Public # can be accessed from everywhere
 
-Protected  - _   _var, def _method()
+Protected  - _   _var, def _method() # can be accessed within the class and derived classes
 
-Private - __var, def __method()
+Private - __var, def __method() # can be accessed within the class only
 
 
 """

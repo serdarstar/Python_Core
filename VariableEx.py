@@ -24,7 +24,7 @@ d2 = Dog()
 d2.name = "Bruno"
 d2.color = "White"
 
-Dog.legs = 3
+#Dog.legs = 3
 
 print(d1.name,d1.color,Dog.legs)
 d1.getDogName()
@@ -45,5 +45,11 @@ print(d2.name,d2.color,Dog.legs)
 
 
 """
+print(".....................................")
+print(d1.name)
+d1.getLegsCount() # you can call class method directly by creating and object and without adding @classmethod decorator
+#Dog.getLegsCount() # to be able to call directly by class name, we need to add @classmethod decorator to that method
+d1.generalInformation()
+Dog.generalInformation() # For static methods, you do not need to add self or cls parameters
 
 
