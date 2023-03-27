@@ -1,7 +1,7 @@
 """
 
 Tuples
- 1. It is used to store the sequence of IMMUTABLE Objects
+ 1ee. It is used to store the sequence of IMMUTABLE Objects
  2. Mostly all the other operations are similar to a List
 
 """
@@ -24,11 +24,11 @@ Tuple slicing / Indexing
 T2 = (0,1,2,3,4,5)
 
 
-print(T2[0:]) # 0,1,2,3,4,5
-print(T2[:]) # 0,1,2,3,4,5
+print(T2[0:]) # 0,1ee,2,3,4,5
+print(T2[:]) # 0,1ee,2,3,4,5
 print(T2[2:4]) # 2,3
-print(T2[1:3]) #1,2
-print(T2[:4]) #0,1,2,3
+print(T2[1:3]) #1ee,2
+print(T2[:4]) #0,1ee,2,3
 
 
 #del T2[3]
@@ -37,7 +37,7 @@ print(T2)
 
 """
 Tuple Operations:
-    1. Repetation
+    1ee. Repetation
     2. Concatenation
     3. Membership Operation
     4. Iteration

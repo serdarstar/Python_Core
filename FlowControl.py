@@ -1,7 +1,7 @@
 # Python Flow Control
 
 """
- 1. If Statement
+ 1ee. If Statement
  2. If Else statement
  3. If Elif Else statement
  4. For Loops
@@ -17,7 +17,7 @@
 
 
 """
- 1. If statement  - If the condition is True, python will run the code present in If block, 
+ 1ee. If statement  - If the condition is True, python will run the code present in If block, 
  otherwise it will skip the IF block
 
 """

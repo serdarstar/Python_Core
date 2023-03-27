@@ -1,7 +1,7 @@
 """
 
 Functions:
-    1. Block of code used to perform a specific action
+    1ee. Block of code used to perform a specific action
     2. Reusable Block
     3. Can have parameters
     4. Collection of multiple functions create a program
@@ -40,7 +40,7 @@ get_user_details(name="Rahul",salary=100000,age=35)
 """
 Types of Arguments:
 
-    1. Required Arguments
+    1ee. Required Arguments
     2. Keyword Arguments
     3. Default Arguments
     4. Variable length Arguments

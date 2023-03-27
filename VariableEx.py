@@ -39,7 +39,7 @@ print(d2.name,d2.color,Dog.legs)
 """
 3 types of Methods / functions
 
-1. Instance Method - Use to access instance variable of the class
+1ee. Instance Method - Use to access instance variable of the class
 2. Class Method - Use to access static of the class
 3. Static Method - Standalone method
 

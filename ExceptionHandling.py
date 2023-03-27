@@ -52,10 +52,10 @@ print("This is outside Try Except block")
 Python Exception Hierarchy
 
 BASE EXCEPTION
-   1. Exception
+   1ee. Exception
         a. Attribute Exception / Error
         b. Arithmetic Exception / Error
-            1. ZeroDivision Error
+            1ee. ZeroDivision Error
             2. FloatingPoint Error
             3. Overflow Error
         c. EOF Exception (End of File)

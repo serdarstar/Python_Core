@@ -1,6 +1,6 @@
 """
 SET:
- 1. It is similar to List
+ 1ee. It is similar to List
  2. It can store different type of values (Objects) String, Int, Float, Bool etc
  3. Set cannot have duplicate values
  4. Set are defined {}

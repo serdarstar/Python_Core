@@ -1,6 +1,6 @@
 """
 Iterative Statements:
- 1. For Loop
+ 1ee. For Loop
  2. While Loop
 
 """
@@ -26,7 +26,7 @@ for x in sequence:
     print("The character preset at {}, index - {}".format(i,x))
     i=i+1
 
-for x in range(10): #0-n-1: 0 to 9
+for x in range(10): #0-n-1ee: 0 to 9
     print("Way2Automation ",x)
 
 for x in range(2,30,3):

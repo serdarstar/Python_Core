@@ -2,7 +2,7 @@
 
 OOPS Concepts / Procedural language (Step by Step implementation of the code)
 
-    1. Classes
+    1ee. Classes
     2. Objects
     3. Encapsulation
     4. Absraction
@@ -13,7 +13,7 @@ OOPS Concepts / Procedural language (Step by Step implementation of the code)
 What is a Class?
 
 
-1. A Class can be defined as a Blueprint / Template which describes the state / behavior
+1ee. A Class can be defined as a Blueprint / Template which describes the state / behavior
 of it's object
 
 
@@ -27,7 +27,7 @@ class <classname>:
     Roll number
     Address
 
-    1 - Rahul, 16, 1, asfsdf
+    1ee - Rahul, 16, 1ee, asfsdf
     2. Raman, 18, 2, asfsdfser
 
 """
@@ -58,3 +58,4 @@ b = Human()
 b.eyes_function("Blue")
 b.ear_function("White")
 b.noes_function("Large")
+

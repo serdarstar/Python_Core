@@ -6,7 +6,7 @@ a=10
 #10 is the value which A is holding
 
 
-#1. No special char allowed expcept "_"
+#1ee. No special char allowed expcept "_"
 
 # !@#$%^&*
 

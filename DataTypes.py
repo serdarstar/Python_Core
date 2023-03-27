@@ -1,6 +1,6 @@
 """
 Datatypes:
-    1. List
+    1ee. List
     2. Tuple
     3. Dictionary
 
@@ -9,7 +9,7 @@ Datatypes:
 """
 List - Data type
  
- 1. It is just a consecutive collection of related items / words
+ 1ee. It is just a consecutive collection of related items / words
  2. Represents a group of values as a single entity, order is very important
  3. It allows duplicate values as well.
  4. It is represented by a square bracket []
@@ -24,7 +24,7 @@ print(b)
 
 """
 
-1. order is preserved
+1ee. order is preserved
 
 """
 
@@ -62,10 +62,10 @@ List Slicing
 
 c = [0, 1, 2, 3, 4, 5, 6]
 
-print(c[0:])  # 0,1,2,3,4,5,6
-print(c[:])  # 0,1,2,3,4,5,6
+print(c[0:])  # 0,1ee,2,3,4,5,6
+print(c[:])  # 0,1ee,2,3,4,5,6
 print(c[2:4])  # 2,3
-print(c[:4])  # 0,1,2,3
+print(c[:4])  # 0,1ee,2,3
 
 """
 Updating List values
@@ -99,7 +99,7 @@ print(e)
 
 List operations:
 
-    1. Repetition operation
+    1ee. Repetition operation
     2. Concatenation operation
     3. Memebership operation
     4. Iterations

@@ -4,7 +4,7 @@
 
 """"
 
-1. Arithmetic
+1ee. Arithmetic
 2. Comparison
 3. Equality
 4. Logical
@@ -18,7 +18,7 @@
 """
 
 """
-1. Arithmetic Operators
+1ee. Arithmetic Operators
   a. Addition
   b. Subtraction
   c. Multiplication
@@ -169,7 +169,7 @@ print(not a==10)
     a. Bitwise And (&)
     b. Bitwise Or (|)
     c. Bitwise XOR (^)
-    d. Bitwise complement (~) - -(n+1)
+    d. Bitwise complement (~) - -(n+1ee)
 
 
 """
@@ -250,7 +250,7 @@ print(min)
 
 """
 9. Identity Operators
-   1. is
+   1ee. is
    2. is not
    
    a is not b, return true only when two reference var are pointing to the same object
@@ -265,7 +265,7 @@ print(a is not b)
 
 """
 10. Membership Operator
-  1. in
+  1ee. in
   2. not in
 
 """
